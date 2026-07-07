@@ -7,3 +7,4 @@ agent_memory.db
 .vscode/
 .idea/
 *.log
+*-summary.md
